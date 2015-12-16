@@ -1,0 +1,126 @@
+------------------------------------------
+Sistema Operacional:Windows 10
+Núcleos utilizados: 6
+Tamanho da Matriz: 1000
+Quantidade de Threads Utilizadas: 100
+
+Teste 1 de 7: 4.771545 segundos
+Teste 2 de 7: 4.676911 segundos
+Teste 3 de 7: 4.486857 segundos
+Teste 4 de 7: 4.5073037 segundos
+Teste 5 de 7: 4.5904036 segundos
+Teste 6 de 7: 4.611113 segundos
+Teste 7 de 7: 4.590928 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 1000
+Quantidade de Threads Utilizadas: 100
+
+Teste 1 de 7: 2.373976 segundos
+Teste 2 de 7: 2.270167 segundos
+Teste 3 de 7: 2.583167 segundos
+Teste 4 de 7: 2.5926042 segundos
+Teste 5 de 7: 2.2743614 segundos
+Teste 6 de 7: 2.2602055 segundos
+Teste 7 de 7: 2.7970765 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 2100
+Quantidade de Threads Utilizadas: 210
+
+Teste 1 de 7: 18.726519 segundos
+Teste 2 de 7: 18.518377 segundos
+Teste 3 de 7: 18.695585 segundos
+Teste 4 de 7: 18.545639 segundos
+Teste 5 de 7: 18.564514 segundos
+Teste 6 de 7: 18.695585 segundos
+Teste 7 de 7: 18.325438 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 2000
+Quantidade de Threads Utilizadas: 100
+
+Teste 1 de 7: 16.234577 segundos
+Teste 2 de 7: 16.060514 segundos
+Teste 3 de 7: 17.069769 segundos
+Teste 4 de 7: 17.259562 segundos
+Teste 5 de 7: 16.130245 segundos
+Teste 6 de 7: 15.960899 segundos
+Teste 7 de 7: 15.851848 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 200
+Quantidade de Threads Utilizadas: 200
+
+Teste 1 de 7: 0.24536678 segundos
+Teste 2 de 7: 0.13893633 segundos
+Teste 3 de 7: 0.12268339 segundos
+Teste 4 de 7: 0.20761804 segundos
+Teste 5 de 7: 0.08650752 segundos
+Teste 6 de 7: 0.089653246 segundos
+Teste 7 de 7: 0.098566145 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 2000
+Quantidade de Threads Utilizadas: 200
+
+Teste 1 de 7: 16.359882 segundos
+Teste 2 de 7: 16.013853 segundos
+Teste 3 de 7: 16.21046 segundos
+Teste 4 de 7: 16.347824 segundos
+Teste 5 de 7: 103.51437 segundos
+Teste 6 de 7: 16.529753 segundos
+Teste 7 de 7: 16.303783 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 1000
+Quantidade de Threads Utilizadas: 200
+
+Teste 1 de 7: 2.3582475 segundos
+Teste 2 de 7: 2.2769828 segundos
+Teste 3 de 7: 2.491941 segundos
+Teste 4 de 7: 2.364539 segundos
+Teste 5 de 7: 2.2596812 segundos
+Teste 6 de 7: 2.2843227 segundos
+Teste 7 de 7: 2.8715253 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Linux
+Núcleos utilizados: 6
+Tamanho da Matriz: 3000
+Quantidade de Threads Utilizadas: 200
+
+Teste 1 de 7: 51.302628 segundos
+Teste 2 de 7: 52.52527 segundos
+Teste 3 de 7: 52.396294 segundos
+Teste 4 de 7: 52.269417 segundos
+Teste 5 de 7: 52.68675 segundos
+Teste 6 de 7: 53.012333 segundos
+Teste 7 de 7: 52.87654 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Windows 7
+Núcleos utilizados: 4
+Tamanho da Matriz: 500
+Quantidade de Threads Utilizadas: 50
+
+Teste 1 de 7: 0.71984744 segundos
+Teste 2 de 7: 0.6469714 segundos
+Teste 3 de 7: 1.0437263 segundos
+Teste 4 de 7: 0.63176703 segundos
+Teste 5 de 7: 0.6253445 segundos
+Teste 6 de 7: 0.6258688 segundos
+Teste 7 de 7: 0.6763315 segundos
+------------------------------------------

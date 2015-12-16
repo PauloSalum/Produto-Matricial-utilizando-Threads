@@ -1,0 +1,28 @@
+------------------------------------------
+Sistema Operacional:Windows 10
+Núcleos utilizados: 6
+Tamanho da Matriz: 1000
+Quantidade de Threads Utilizadas: 100
+
+Teste 1 de 7: 4.769841 segundos
+Teste 2 de 7: 4.6571193 segundos
+Teste 3 de 7: 4.5869956 segundos
+Teste 4 de 7: 4.6411285 segundos
+Teste 5 de 7: 4.6776977 segundos
+Teste 6 de 7: 4.631429 segundos
+Teste 7 de 7: 4.61321 segundos
+------------------------------------------
+------------------------------------------
+Sistema Operacional:Windows 10
+Núcleos utilizados: 6
+Tamanho da Matriz: 1000
+Quantidade de Threads Utilizadas: 20
+
+Teste 1 de 7: 4.7192473 segundos
+Teste 2 de 7: 4.648862 segundos
+Teste 3 de 7: 4.7469034 segundos
+Teste 4 de 7: 4.5715294 segundos
+Teste 5 de 7: 4.603642 segundos
+Teste 6 de 7: 4.716364 segundos
+Teste 7 de 7: 4.767875 segundos
+------------------------------------------
